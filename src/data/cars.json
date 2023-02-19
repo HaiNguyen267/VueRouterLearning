@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Car 1",
+        "price": 1200,
+        "year": 2000,
+        "contact": {
+            "dealer": "Hai Nguyen",
+            "number": "0291-402-021"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Car 2",
+        "price": 1500,
+        "year": 2001,
+        "contact": {
+            "dealer": "Hai Nguyen",
+            "number": "0291-402-021"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Car 3",
+        "price": 1800,
+        "year": 2002,
+        "contact": {
+            "dealer": "Hai Nguyen",
+            "number": "0291-402-021"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Car 4",
+        "price": 2100,
+        "year": 2003,
+        "contact": {
+            "dealer": "Hai Nguyen",
+            "number": "0291-402-021"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Car 5",
+        "price": 2400,
+        "year": 2004,
+        "contact": {
+            "dealer": "Hai Nguyen",
+            "number": "0291-402-021"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Car 6",
+        "price": 2700,
+        "year": 2005,
+        "contact": {
+            "dealer": "Hai Nguyen",
+            "number": "0291-402-021"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Car 7",
+        "price": 3000,
+        "year": 2006,
+        "contact": {
+            "dealer": "Hai Nguyen",
+            "number": "0291-402-021"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Car 8",
+        "price": 3300,
+        "year": 2007,
+        "contact": {
+            "dealer": "Hai Nguyen",
+            "number": "0291-402-021"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Car 9",
+        "price": 3600,
+        "year": 2008,
+        "contact": {
+            "dealer": "Hai Nguyen",
+            "number": "0291-402-021"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Car 10",
+        "price": 3900,
+        "year": 2009,
+        "contact": {
+            "dealer": "Hai Nguyen",
+            "number": "0291-402-021"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Car 11",
+        "price": 4200,
+        "year": 2010,
+        "contact": {
+            "dealer": "Hai Nguyen",
+            "number": "0291-402-021"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Car 12",
+        "price": 4500,
+        "year": 2011,
+        "contact": {
+            "dealer": "Hai Nguyen",
+            "number": "0291-402-021"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Car 13",
+        "price": 4800,
+        "year": 2012,
+        "contact": {
+            "dealer": "Hai Nguyen",
+            "number": "0291-402-021"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Car 14",
+        "price": 5100,
+        "year": 2013,
+        "contact": {
+            "dealer": "Hai Nguyen",
+            "number": "0291-402-021"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Car 15",
+        "price": 5400,
+        "year": 2014,
+        "contact": {
+            "dealer": "Hai Nguyen",
+            "number": "0291-402-021"
+        }
+    }
+]
